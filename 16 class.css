@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+
+    <title>Document</title>
+    <style>
+        /* div a{
+            color: cornflowerblue;
+        }
+        i{
+            color: darkgoldenrod;
+        }
+        b{color: blue;        
+        }
+        .one{
+        color: cadetblue;
+        } */
+         body{
+            background-color:rgb(216, 215, 215)
+         }
+         div h1{
+            font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+        font: size 70px;
+        font-style: italic; 
+        text-transform: capitalize;
+        text-align: cente ;        
+    text-decoration: underline;
+    background-color: blue;    
+    color: aliceblue;
+    }
+    div h2{
+        background-color: brown;
+        color: antiquewhite;
+    }
+    div p{   font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+        font: size 70px;
+        font-style: italic; 
+        text-transform: capitalize;
+        text-align: cente ;        
+    text-decoration: underline;    
+background-color: aliceblue;
+    }
+
+         
+
+</style>
+
+</head>
+<body>
+<!-- <div>
+    <a href =""> home</a>
+    <p>
+        <a href="">about</a>
+
+    </p>
+    <p>
+
+    </p>
+    <p>
+<a href="">services</a>
+    </p>
+</div>
+<div>salam!</div>
+<div>pakistan</div>
+
+<span>salam!</span>
+<span>pakistan</span> -->
+<!-- <div>
+<h1>potatoes</h1>
+<p>there are <i> dozens</i>of different <b>potato</b> varieties</p>
+<p class="one"> i love french fries</p>
+
+
+</div> -->
+<div>
+    <h1>
+      abeeha fatima 
+    </h1>
+    <h2>the composition of sea water
+    </h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores sunt, cum doloribus, nemo fuga praesentium possimus totam minima eum ipsum provident sequi perferendis, architecto beatae eveniet. Rerum eligendi voluptate labore.</p>
+</div>
+</body>
+</html>

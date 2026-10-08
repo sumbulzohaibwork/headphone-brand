@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css selecters</title>
+    <style>
+    *{background-color: brown;
+        
+    }
+        p{
+            
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+     h1,h2,h3{
+        color: pink
+        
+     } 
+     .one{
+ background-color;print-color-adjust: purple;
+ color: aliceblue;
+     }  
+     #abc{
+background-color:blueviolet
+     }
+
+
+
+    </style>
+</head>
+
+<body>
+    <h1>From garden to plate</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quod repellendus aperiam excepturi tempora eveniet in praesentium similique? Amet blanditiis reprehenderit nobis explicabo atque recusandae tenetur aliquid in aspernatur voluptates.
+</p>
+<h2>what to plant</h2>
+<p id="abc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur error impedit iure? Voluptates dignissimos velit laboriosam minima voluptate tenetur nobis, ullam iste dolor! Ad odit amet aperiam distinctio, assumenda reiciendis!</p>
+<p class="one">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi tempore et quidem expedita fugit dolore laudantium ducimus voluptatum quos, harum facere ad aut molestias iusto recusandae reiciendis itaque quam repellat. </p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quia ullam dolores dignissimos pariatur non culpa odit nostrum sapiente! Aspernatur eum magni aliquid odio ipsam nam dignissimos blanditiis eos suscipit!</p>
+<p class="one">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto fugiat suscipit quaerat iure, culpa molestiae ullam ex eligendi inventore sed vero commodi rem nihil maxime cupiditate natus voluptatibus, deserunt nesciunt?</p>
+<p >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro nihil fugiat amet iure, illo autem iusto fuga officiis, explicabo obcaecati ullam voluptates voluptatibus est eaque sed incidunt id ipsum similique!</p>
+<p class="one">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium dolores nobis temporibus eaque! Quibusdam, similique minus ut dolores quaerat, quod consequatur id blanditiis, sit sapiente ducimus voluptates eos obcaecati. Ut.</p>
+
+
+
+
+
+</body>

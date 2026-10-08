@@ -1,0 +1,21 @@
+
+    margin: 2px; 0;
+    padding: 2px; 0;
+
+}
+nav{
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.nav-links ol{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.nav-links a{
+    color: #965d39;
+    text-decoration: none;
+    font-size: 18px;
+}

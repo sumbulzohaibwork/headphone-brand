@@ -1,0 +1,25 @@
+
+
+    a{
+color: bisque;
+background-color:darkblue
+    }
+
+</style>
+<a href="https://www.google.com/" target="_blank">Google</a>
+<ul>
+<a href="https://www.google.com/" target="_blank">Google</a>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+
+</ul>
+</p>
+
+<button>
+    <img src="submits.jpg"length="80"width="80"
+</button>
+
+
+</body>
+</html>

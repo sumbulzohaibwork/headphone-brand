@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>the lite bites </title>
+<body bgcolor="black" text="yellow">
+    <allign="center">
+      <u>  <h1 align="center">The lite bites</h1>
+        <h1 align="center">our Menu</h1></u>
+        <font size="5" color="silver">we have many food items in our menu</font>
+        </font>  
+  <u>
+    <h2 align="center">Burgers</h2></u>
+    <img src="black burger.jpg" alt="food menu" width=200" height="200">
+    </align="center">>
+    <ul>
+        <li>chicken Cheese Burger- Rs350</li>
+        <li>Veggie Burger-Rs250</li>
+        <li>Chicken Burger-Rs300</li>
+        <li>zinger burger-Rs500</li>
+        <li>zinger cheese burger-Rs600</li>
+    </ul>
+    </h2>
+    <u><h2 align="center">Pizza</h2></u>
+    <img src="black pizza.jpg" alt="food menu" width="200" height="200">
+    </align="center">
+    
+    <ul>
+        <li>chicken pizza-Rs500</li>
+        <li>veggie pizza-Rs400</li>
+        <li>cheese pizza-Rs300</li>
+        <li>BBQ pizza-Rs600</li>
+    </ul>
+<align="center">
+   <u> <h2 align="center">Tikka</h2></u>
+    <img src="black tikka.jpg" alt="food menu" width="200" height="200">
+</align="center">
+    <ul>
+        <li>chicken tikka(leg)-Rs450</li>
+        <li>chicken tikka(chest)-Rs550</li>
+    <li>malai tikka(leg)-Rs550</li>
+        <li>malai tikka(chest)-Rs650</li>
+        <li>bihari tikka(leg)-Rs500</li>
+        <li>bihari tikka(chest)-Rs600</li>
+    </ul>
+  <u> <h2 align="center">Ice cream</h2></u>
+    <img src="black icecream.jpg" alt="food menu" width="200" height="200">
+    <ul>
+        <li>chocolate ice cream-Rs150</li>
+        <li>vanilla ice cream-Rs150</li>
+        <li>strawberry ice cream-Rs150</li>
+        <li>butterscotch ice cream-Rs150</li>
+    </ul>
+
+
+</body>
+</head>
+</html>

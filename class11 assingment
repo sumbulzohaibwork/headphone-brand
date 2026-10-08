@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title> 
+        DECORE YOU DREAM HOUSE
+    </title>
+    <link rel='stylesheet' href='main.css'>
+</head>
+<body bgcolour="lightblue">
+   <h1>DECORE YOU DREAM HOUSE</h1>
+    <div class='container'>
+        <div class='box'>
+            <h2>kitchen</h2>
+            <p>Design your living room with modern furniture and cozy lighting.</p>
+        </div>
+        <img src="living room.png" alt='Living Room' class='image'>
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, veritatis soluta. Eius, accusantium sapiente ex enim cumque beatae, repellendus accusamus itaque fuga harum minus ratione aliquam! Vel, quos molestiae. Minima?
+        <div class='box'>
+            <h2>Bedroom</h2>
+            <p>Create a peaceful bedroom with soft colors and comfortable bedding.</p>
+            <img src="bedroom.png"height="180px" width="180px" class='image'>
+        lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, veritatis soluta. Eius, accusantium sapiente ex enim cumque beatae, repellendus accusamus itaque fuga harum minus ratione aliquam! Vel, quos molestiae. Minima?
+        </div>
+        <h1>Living Room</h1>
+        <img src="livingroom 2.png" alt='Living Room 2'height ="180px" width="180px" class='image'> 
+lorem living room 2 ipsum dolor sit amet consectetur adipisicing elit. Illo, veritatis soluta. Eius, accusantium sapiente ex enim cumque beatae, repellendus accusamus itaque fuga harum minus ratione aliquam! Vel, quos molestiae. Minima?
+        <div class='box'>
+            <h2>DRAWING ROOM</h2>
+            <p>Create a welcoming drawing room with comfortable seating and elegant decor. </p>
+         <img src="drawing room.png" alt='Drawing Room'height ="180px" width="180px" class='image'>
+  lorem drawing room ipsum dolor sit amet consectetur adipisicing elit. Illo, veritatis soluta. Eius, accusantium sapiente ex enim cumque beatae, repellendus accusamus itaque fuga harum minus ratione aliquam! Vel, quos molestiae. Minima?
+        </div>
+    </div>
+    <form
+<form>
+
+</form>
+</body>
+</html>

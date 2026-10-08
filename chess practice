@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chess Board</title>
+</head>
+<body>
+
+<h1>Chess Board</h1>
+
+<table border="1" cellspacing="0" cellpadding="0" width="480" height="480">
+
+    <tr height="60">
+        <td width="60" bgcolor="black">♜</td>
+        <td width="60" bgcolor="white">♞</td>
+        <td width="60" bgcolor="black">♝</td>
+        <td width="60" bgcolor="white">♛</td>
+        <td width="60" bgcolor="black">♚</td>
+        <td width="60" bgcolor="white">♝</td>
+        <td width="60" bgcolor="black">♞</td>
+        <td width="60" bgcolor="white">♜</td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="white">♟</td>
+        <td bgcolor="black">♟</td>
+        <td bgcolor="white">♟</td>
+        <td bgcolor="black">♟</td>
+        <td bgcolor="white">♟</td>
+        <td bgcolor="black">♟</td>
+        <td bgcolor="white">♟</td>
+        <td bgcolor="black">♟</td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="black"></td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="black">♙</td>
+        <td bgcolor="white">♙</td>
+        <td bgcolor="black">♙</td>
+        <td bgcolor="white">♙</td>
+        <td bgcolor="black">♙</td>
+        <td bgcolor="white">♙</td>
+        <td bgcolor="black">♙</td>
+        <td bgcolor="white">♙</td>
+    </tr>
+
+    <tr height="60">
+        <td bgcolor="white">♖</td>
+        <td bgcolor="black">♘</td>
+        <td bgcolor="white">♗</td>
+        <td bgcolor="black">♕</td>
+        <td bgcolor="white">♔</td>
+        <td bgcolor="black">♗</td>
+        <td bgcolor="white">♘</td>
+        <td bgcolor="black">♖</td>
+    </tr>
+
+</table>
+
+</body>
+</html>

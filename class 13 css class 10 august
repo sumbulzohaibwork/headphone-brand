@@ -1,0 +1,16 @@
+     e-width, initial-scale=1.0">
+        <title>css</title>
+        <style>
+            h2 {
+                color:purple
+            
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <h1 style="color: blueviolet;"> welcome to csss</h1>
+        <h2>internal css</h2>  
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero est qui quasi sint impedit corporis, delectus, sit voluptatum quo labore soluta similique obcaecati ipsum maxime repudiandae ipsam, fugiat hic officiis.</p>      
+    </body>
